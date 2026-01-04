@@ -3,7 +3,7 @@
 //  MyStorkits
 //
 //  Created by Terje Moe on 04/01/2026.
-//
+//  04.01.2026
 
 import SwiftUI
 
